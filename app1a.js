@@ -1,6 +1,3 @@
-let var1;
-let var2;
-
 function sumar(numero1, numero2){
     let resultadoSuma = numero1 + numero2;
 
